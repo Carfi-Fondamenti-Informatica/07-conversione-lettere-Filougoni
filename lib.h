@@ -1,4 +1,4 @@
 #ifndef ESERCITAZIONE_CONVERSIONE_LIB_H
 #define ESERCITAZIONE_CONVERSIONE_LIB_H
-bool conversione(char &a);
-#endif //ESERCITAZIONE_CONVERSIONE_LIB_H
+bool conversione(char &a)
+
